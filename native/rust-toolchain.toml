@@ -1,6 +1,6 @@
 # See https://pub.dev/packages/native_toolchain_rusts#rust-toolchaintoml
 [toolchain]
-channel = "1.94.0"
+channel = "1.95.0"
 components = ["clippy", "rustfmt"]
 
 # The targets to support
